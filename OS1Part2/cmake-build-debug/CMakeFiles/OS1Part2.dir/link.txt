@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/OS1Part2.dir/main2_1.c.o  -o OS1Part2 

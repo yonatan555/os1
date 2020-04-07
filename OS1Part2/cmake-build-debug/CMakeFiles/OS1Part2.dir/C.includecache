@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yonatan/CLionProjects/OS1Part2/main2_1.c
+stdio.h
+-
+sys/types.h
+-
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+
